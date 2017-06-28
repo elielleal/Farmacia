@@ -1,0 +1,64 @@
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.frmClientes.resources
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.frmFuncionario.resources
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.frmFabricante.resources
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.frmFornecedor.resources
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.frmProduto.resources
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.frmVenda.resources
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.frmMenu.resources
+C:\Users\ELIEL\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.frmSobre.resources
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.frmFabricante.resources
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.frmClientes.resources
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.frmFornecedor.resources
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.frmFuncionario.resources
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.frmMenu.resources
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.frmProduto.resources
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.frmSobre.resources
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.frmVenda.resources
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\eric\Desktop\Trabalho-C-\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmFabricante.resources
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmClientes.resources
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmFornecedor.resources
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmFuncionario.resources
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmMenu.resources
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmProduto.resources
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmSobre.resources
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmVenda.resources
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\ELIEL\Documents\Eliel Particular\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmFabricante.resources
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmClientes.resources
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmFornecedor.resources
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmFuncionario.resources
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmMenu.resources
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmProduto.resources
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmSobre.resources
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.frmVenda.resources
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\ELIEL\Desktop\TRABALHOS-master\Trabalho-Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
